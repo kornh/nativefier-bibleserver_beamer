@@ -1,0 +1,11 @@
+.translation_book{
+	margin-right: 0 !important;
+}
+.partner, .userOptions, #menuOptions .info{
+	display:none !important;
+}
+#cbgh_control{
+	position: absolute;
+	right: 150px;
+	top: 25px;
+}

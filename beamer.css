@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    color: white;
+}
+#chapter {
+    font-size: 50px;
+}
+#verses {
+
+}
+.verse {
+    
+}
+.number {
+    font-size: 40px;
+    margin-right: 10px
+}
+.text {
+    font-size: 35px;
+}
+
+.center {
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+}
